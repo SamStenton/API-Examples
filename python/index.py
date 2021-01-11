@@ -18,7 +18,7 @@ def printArray(arr):
 	for var in arr:
 		print (var)
 
-#
+# Main method
 def main():
 	response = getRequest()
 	if (response):
